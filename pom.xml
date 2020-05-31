@@ -22,6 +22,8 @@
     </build>
     <modules>
         <module>twitter-producer</module>
+        <module>twitter-consumer-es</module>
+
     </modules>
 
     <dependencies>
