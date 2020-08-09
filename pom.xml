@@ -23,7 +23,7 @@
     <modules>
         <module>twitter-producer</module>
         <module>twitter-consumer-es</module>
-
+        <module>kafka-streams-filter</module>
     </modules>
 
     <dependencies>
